@@ -1,4 +1,4 @@
-import { HostelWorldListResponse } from "./type-list";
+import { HostelWorldListResponse } from 'types/type-list';
 
 const exampleList: HostelWorldListResponse = {
   properties: [
